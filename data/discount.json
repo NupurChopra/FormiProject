@@ -1,0 +1,18 @@
+[
+  {
+    "member_type": "First time booking",
+    "discount": 0.05
+  },
+  {
+    "member_type": "Silver Member",
+    "discount": 0.12
+  },
+  {
+    "member_type": "Gold Member",
+    "discount": 0.15
+  },
+  {
+    "member_type": "Platinum Member",
+    "discount": 0.18
+  }
+]

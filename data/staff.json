@@ -1,0 +1,10 @@
+{
+  "staff_charge_per_night": "Guest Staff - 2500++",
+  "staff_timings": {
+    "male": "8 am - 10 pm",
+    "female": "8 am - 8 pm"
+  },
+  "can_staff_stay_24_hours": "No",
+  "overtime_charges": "1200 Rs (10pm-2am)/ day per staff",
+  "errand_charge": "300++"
+}
